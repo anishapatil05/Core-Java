@@ -1,4 +1,4 @@
-// String Data Type
+// String Non-Primitive Data Type
 public class StringDemo {
     public static void main(String[] args){
         // Alpha values
