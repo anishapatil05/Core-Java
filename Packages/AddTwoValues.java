@@ -1,3 +1,4 @@
+// Package sumation call the method add from addition package sum class 
 package sumation;
 
 import addition.sum;
