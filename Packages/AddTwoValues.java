@@ -1,4 +1,5 @@
-// Package sumation call the method add from addition package sum class 
+// Package sumation call the method sum() from addition package sum class 
+// Creating new package (sumation).
 package sumation;
 
 // importing method sum() from different package (addition) of class sum...
