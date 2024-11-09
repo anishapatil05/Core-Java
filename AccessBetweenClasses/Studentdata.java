@@ -1,7 +1,7 @@
-// Accessibilty of variables from different classes
+// Example of :  Accessibilty of variables from different classes
 public class Studentdata {
     public static void main(String[] args) {
-        // Access clg data from Student class
+        // Accessing non-static variable clgname of Student class...
         String name = Student.clgname;
         System.out.println(name);
 
