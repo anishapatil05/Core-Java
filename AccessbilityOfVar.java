@@ -1,3 +1,4 @@
+// Accessbility of Variable within same class
 public class AccessbilityOfVar {
     static String Company_name = "Apple";
     static String CEO = "Tim cook";
