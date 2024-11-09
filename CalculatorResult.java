@@ -1,3 +1,4 @@
+// Accessing methods from differnt class 
 // Accessing methods from calculator class
 public class CalculatorResult {
   public static void main(String[] args) {
