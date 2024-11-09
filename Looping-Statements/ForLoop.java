@@ -1,9 +1,9 @@
-
+// Example of for-loop 
 public class ForLoop {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-// print HI 20 times
+	public static void main(String[] args) 
+	{
+		// print "hi" 20 times
 		for(int i=1; i<=20; i++)
 		{
 			System.out.println(i);
@@ -11,14 +11,12 @@ public class ForLoop {
 		}
 
 		// print student id from 100 to 200		
-		
-		
 		for(int i=100; i<=200; i++)
 		{
 			System.out.println("Student id's : "+i);
 		}
 		
-//		print 5 division values under the range of 333 to 999
+                //print 5 division values under the range of 333 to 999
 		for(int i=333; i<= 999; i++)
 		{
 			if(i%5==0) {
@@ -26,7 +24,5 @@ public class ForLoop {
 			}
 		}
 		
-		
 	}
-
 }
