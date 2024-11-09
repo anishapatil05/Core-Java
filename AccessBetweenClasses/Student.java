@@ -1,4 +1,4 @@
-// Accessiblity of  Variabls from different classes
+// Accessiblity of  Variabls from different classes(Studentdata)
 public class Student {
     static String clgname="JJMCOE";
      int clgcount=890;
