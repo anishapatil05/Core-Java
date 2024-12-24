@@ -1,4 +1,4 @@
-
+// Wrapper Classes 
 public class WrapperClassDemo {
 
 	public static void main(String[] args) {
@@ -26,10 +26,6 @@ public class WrapperClassDemo {
 		int temp1 = temp;
 		System.out.println(temp1);
 		
-		
-		
-		
-
 	}
 
 }
