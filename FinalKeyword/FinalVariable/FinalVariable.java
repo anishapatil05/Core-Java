@@ -1,5 +1,5 @@
 package anisha.finalkeyword;
-
+// Final variable in class
 public class FinalVariable {
 
 //	final variables : after intilizining the var it does not modify in a class
